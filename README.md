@@ -185,3 +185,9 @@ cava
     You may need to restart the terminal after installation
     If CAVA doesn't capture audio, configure it in `~/.config/cava/config`
     To add more stations, edit `~/.config/pyradio/stations.csv`
+
+Screenshot 
+
+![Minha área de trabalho](https://raw.githubusercontent.com/hudsonalbuquerque97-sys/Pyradio-cava-installer/refs/heads/main/2025-11-25-163929.png)
+
+![Minha área de trabalho](https://raw.githubusercontent.com/hudsonalbuquerque97-sys/Pyradio-cava-installer/refs/heads/main/2025-11-25-163751_000.png)
